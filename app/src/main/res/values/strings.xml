@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Reduce Your Carbon Footprint</string>
+    <string name="tvLogo">Take urgent action to combat climate change and its impact</string>
+    <string name="button_login">Login</string>
+    <string name="username_carbon">username: carbon</string>
+    <string name="password_footprint">password: footprint</string>
+    <string name="tvDefinitionTittle">Definition of Carbon Footprint</string>
+    <string name="tvDefinitionContent">
+        According to WHO, a carbon footprint is a measure of the impact your activities have on the amount of carbon dioxide (CO2) produced through the burning of fossil fuels and is expressed as a weight of CO2 emissions produced in tonnes.
+    "\n\n"
+         <b>"How To Measure My Personal Carbon Footprint?” </b>
+    "\n\n"
+        The carbon footprint is a very important means to understand the impact of a person’s behavior on global warming. This is why someone who effectively wants to contribute to stopping global warming, at least on an individual scale, needs to measure and keep track of their personal carbon footprint.
+    "\n\n"
+        And here is where online calculators come in. For instance, by using the carbon footprint calculators from WWF, TerraPass (includes calculator for companies and events) or the UN you’ll be asked to provide pieces of information such as: how you commute to work, what your usual diet is, how much you drive or fly, the size of your household, or what type of electricity the grid provides you.
+    "\n\n"
+        The result you’ll get won’t be perfect or very much accurate – and there are several reasons why. First, because carbon footprint calculators use standard values that aren’t always right for a multiple of possible situations. For instance, when you type how many miles you drive on average, a certain reference value for the CO2/emissions/mile will be multiplied by your miles and then by 12 months. However, both numbers are estimations: sometimes you drive more than you actually told the calculator, and perhaps you drive a 4×4 truck and not an SUV as the calculator is expecting.
+    "\n\n"
+        The same can happen for how much impact your diet has: eating meat is on average very carbon polluting, but it also depends on where you buy it (if it’s local it has fewer emissions from transportation) or how caws are fed. Another reason is also that these estimations usually forget (because it’s very hard to find numbers) to account for goods and services purchased.
+    "\n\n" 
+        In the end, the truth is that an exact number is hard to find. Still, these calculators are the best there is and there’s no excuse for not getting your carbon footprint and working on how to improve it.
+    </string>
+
+    <string name="tvAbout">Carbon Footprint</string>
+    <string name="tvAboutContent">
+        Beragam aktivitas manusia menyebabkan peningkatan konsentrasi gas-gas rumah kaca (GRK) di atmosfer bumi. Gas-gas rumah kaca ini memiliki kemampuan untuk mengikat radiasi sinar matahari yang dipantulkan oleh bumi dan yang datang dari luar angkasa. Secara alami, gas-gas rumah kaca ini diperlukan di atmosfer untuk menjaga permukaan bumi tetap hangat. Jika tidak, maka suhu permukaan bumi akan lebih dingin sehingga kehidupan di bumi ini tidak akan dapat berlangsung seperti sekarang.
+    "\n\n"
+       Mengingat sifat gas rumah kaca yang mengikat panas, apabila konsentrasi gas-gas tersebut di atmosfer mengalami peningkatan maka panas matahari yang terperangkap di atmosfer menjadi lebih banyak. Akumulasi panas inilah yang dapat menyebabkan peningkatan suhu permukaan bumi. Itulah sebabnya, jika konsentrasi gas-gas rumah kaca terus meningkat di atmosfer, fenomena pemanasan  global akan terjadi.
+    "\n\n"
+        United Nation Framework Convention on Climate Change (UNFCCC) menetapkan enam jenis gas rumah kaca yang dihasilkan oleh tindakan manusia: Karbondioksida (CO2), Metana (CH4), Nitro Oksida (N2O), Hydrofluorocarbons (HFCs), Perfluorocarbons (PFCs) dan Sulfur hexafluoride (SF6). Menurut hasil observasi, suhu permukaan bumi  sudah naik rata-rata sebesar 1°C sejak awal revolusi industri (akhir abad ke-18) dan kenaikan ini akan mencapai 2°C pada pertengahan abad ini dan lebih dari 3,5°C pada akhir 2100 jika tidak dilakukan tindakan drastis untuk mengurangi laju pertambahan emisi gas rumah kaca dari aktifitas manusia.
+    "\n\n"
+        Peningkatan temperatur rata-rata bumi yang lebih tinggi akan menyebabkan terjadinya perubahan iklim yang akan mengakibatkan perubahan faktor-faktor iklim, seperti curah hujan, penguapan dan temperatur. Perubahan-perubahan ini juga dapat memicu terjadinya bencana lingkungan dengan skala yang lebih besar dan frekuensi yang lebih sering. Pada intinya perubahan iklim mengancam peradaban manusia modern dan keberlanjutan ekosistem global.
+    "\n\n"
+    </string>
+    <string name="tvAuthor">Creator: Salsabila Zahirah Pranida - 18523066</string>
+    <string name="tvDeveloper">Creator</string>
+</resources>
